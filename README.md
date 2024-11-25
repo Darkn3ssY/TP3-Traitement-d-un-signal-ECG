@@ -1,4 +1,4 @@
-# TP3-Traitement-d-un-signal-ECG
+# Traitement-d-un-signal-ECG
 
 
 ![image](https://user-images.githubusercontent.com/90354895/215298957-4a491bb2-6c66-4af3-a98b-7d368b7fdd92.png)
